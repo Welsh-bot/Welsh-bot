@@ -1,0 +1,21 @@
+body{
+background-color: #00b90f;
+color: rgb(15, 87, 6);
+font-family: Comfortaa;
+}
+.dis{
+display: block;
+font-size: 1.17em;
+margin-top: 1em;
+margin-bottom: 1em;
+margin-left: 0;
+margin-right: 0;
+font-weight: normal;
+color: lightgray;
+}
+code {
+    background-color: #eee;
+    border-radius: 3px;
+    font-family: courier, monospace;
+    padding: 0 3px;
+}
